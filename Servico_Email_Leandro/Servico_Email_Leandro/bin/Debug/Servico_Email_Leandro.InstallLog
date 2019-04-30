@@ -1,0 +1,26 @@
+﻿Instalando o assembly 'C:\Users\Leandro Reis\Documents\Projetos GIT\Primeiro_Servico\Servico_Email_Leandro\Servico_Email_Leandro\bin\Debug\Servico_Email_Leandro.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Leandro Reis\Documents\Projetos GIT\Primeiro_Servico\Servico_Email_Leandro\Servico_Email_Leandro\bin\Debug\Servico_Email_Leandro.InstallLog
+   assemblypath = C:\Users\Leandro Reis\Documents\Projetos GIT\Primeiro_Servico\Servico_Email_Leandro\Servico_Email_Leandro\bin\Debug\Servico_Email_Leandro.exe
+Instalando o serviço Servico_Email_Leandro...
+Criando a origem de EventLog Servico_Email_Leandro no log Application...
+Revertendo o assembly 'C:\Users\Leandro Reis\Documents\Projetos GIT\Primeiro_Servico\Servico_Email_Leandro\Servico_Email_Leandro\bin\Debug\Servico_Email_Leandro.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Leandro Reis\Documents\Projetos GIT\Primeiro_Servico\Servico_Email_Leandro\Servico_Email_Leandro\bin\Debug\Servico_Email_Leandro.InstallLog
+   assemblypath = C:\Users\Leandro Reis\Documents\Projetos GIT\Primeiro_Servico\Servico_Email_Leandro\Servico_Email_Leandro\bin\Debug\Servico_Email_Leandro.exe
+Restaurando o log de eventos para o estado anterior da origem Servico_Email_Leandro.
+Instalando o assembly 'C:\Users\Leandro Reis\Documents\Projetos GIT\Primeiro_Servico\Servico_Email_Leandro\Servico_Email_Leandro\bin\Debug\Servico_Email_Leandro.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Leandro Reis\Documents\Projetos GIT\Primeiro_Servico\Servico_Email_Leandro\Servico_Email_Leandro\bin\Debug\Servico_Email_Leandro.InstallLog
+   assemblypath = C:\Users\Leandro Reis\Documents\Projetos GIT\Primeiro_Servico\Servico_Email_Leandro\Servico_Email_Leandro\bin\Debug\Servico_Email_Leandro.exe
+Instalando o serviço Servico_Email_Leandro...
+Criando a origem de EventLog Servico_Email_Leandro no log Application...
+Revertendo o assembly 'C:\Users\Leandro Reis\Documents\Projetos GIT\Primeiro_Servico\Servico_Email_Leandro\Servico_Email_Leandro\bin\Debug\Servico_Email_Leandro.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Leandro Reis\Documents\Projetos GIT\Primeiro_Servico\Servico_Email_Leandro\Servico_Email_Leandro\bin\Debug\Servico_Email_Leandro.InstallLog
+   assemblypath = C:\Users\Leandro Reis\Documents\Projetos GIT\Primeiro_Servico\Servico_Email_Leandro\Servico_Email_Leandro\bin\Debug\Servico_Email_Leandro.exe
+Restaurando o log de eventos para o estado anterior da origem Servico_Email_Leandro.

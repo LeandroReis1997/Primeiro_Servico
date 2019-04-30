@@ -40,6 +40,7 @@
             // ServicoEmail
             // 
             this.ServicoEmail.ServiceName = "Servico_Email_Leandro";
+            this.ServicoEmail.AfterInstall += new System.Configuration.Install.InstallEventHandler(this.ServicoEmail_AfterInstall);
             // 
             // ProjectInstaller
             // 

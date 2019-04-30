@@ -39,8 +39,8 @@ namespace Servico_Email_Leandro
             {
                 Thread.Sleep(5000);
 
-                SqlConnection sqlconnection = new SqlConnection("");
-                SqlCommand cmd = new SqlCommand("");
+                SqlConnection sqlconnection = new SqlConnection(@"Data Source=Leandro;Initial Catalog=ServicoEmail;Persist Security Info=True;User ID=sa;Password=123456");
+                SqlCommand cmd = new SqlCommand("Select top 100 * from EnviarEmail where status='N'", sqlconnection);
 
                 sqlconnection.Open();
 
@@ -50,7 +50,7 @@ namespace Servico_Email_Leandro
                 {
                     enviarEmail(reader["EmailOrigem"].ToString(),
                         reader["EmailDestino"].ToString(),
-                        reader["NomeOrige"].ToString(),
+                        reader["NomeOrigem"].ToString(),
                         reader["NomeDestino"].ToString(),
                         reader["Assunto"].ToString(),
                         reader["Mensagem"].ToString());
@@ -84,12 +84,14 @@ namespace Servico_Email_Leandro
             smtp.UseDefaultCredentials = false;
 
             smtp.Credentials = new NetworkCredential(origem.Address, "mundial2015");
+            //smtp.Send(mensagem);
+    
         }
 
         private void atualizarEmail(int id)
         {
-            SqlConnection sqlConnection = new SqlConnection();
-            SqlCommand cmdUpdate = new SqlCommand();
+            SqlConnection sqlConnection = new SqlConnection(@"Data Source=Leandro;Initial Catalog=ServicoEmail;Persist Security Info=True;User ID=sa;Password=123456");
+            SqlCommand cmdUpdate = new SqlCommand("update EnviarEmail Set Status='S' where Id=@Id", sqlConnection);
 
             cmdUpdate.Parameters.Add(new SqlParameter("@Id", id));
 

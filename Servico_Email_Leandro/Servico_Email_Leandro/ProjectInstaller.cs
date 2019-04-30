@@ -15,5 +15,10 @@ namespace Servico_Email_Leandro
         {
             InitializeComponent();
         }
+
+        private void ServicoEmail_AfterInstall(object sender, InstallEventArgs e)
+        {
+
+        }
     }
 }

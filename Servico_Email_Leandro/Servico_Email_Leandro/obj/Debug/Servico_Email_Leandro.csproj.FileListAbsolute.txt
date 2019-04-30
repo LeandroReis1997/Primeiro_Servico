@@ -1,0 +1,8 @@
+C:\Users\Leandro Reis\Documents\Projetos GIT\Primeiro_Servico\Servico_Email_Leandro\Servico_Email_Leandro\bin\Debug\Servico_Email_Leandro.exe.config
+C:\Users\Leandro Reis\Documents\Projetos GIT\Primeiro_Servico\Servico_Email_Leandro\Servico_Email_Leandro\bin\Debug\Servico_Email_Leandro.exe
+C:\Users\Leandro Reis\Documents\Projetos GIT\Primeiro_Servico\Servico_Email_Leandro\Servico_Email_Leandro\bin\Debug\Servico_Email_Leandro.pdb
+C:\Users\Leandro Reis\Documents\Projetos GIT\Primeiro_Servico\Servico_Email_Leandro\Servico_Email_Leandro\obj\Debug\Servico_Email_Leandro.ProjectInstaller.resources
+C:\Users\Leandro Reis\Documents\Projetos GIT\Primeiro_Servico\Servico_Email_Leandro\Servico_Email_Leandro\obj\Debug\Servico_Email_Leandro.csproj.GenerateResource.cache
+C:\Users\Leandro Reis\Documents\Projetos GIT\Primeiro_Servico\Servico_Email_Leandro\Servico_Email_Leandro\obj\Debug\Servico_Email_Leandro.csproj.CoreCompileInputs.cache
+C:\Users\Leandro Reis\Documents\Projetos GIT\Primeiro_Servico\Servico_Email_Leandro\Servico_Email_Leandro\obj\Debug\Servico_Email_Leandro.exe
+C:\Users\Leandro Reis\Documents\Projetos GIT\Primeiro_Servico\Servico_Email_Leandro\Servico_Email_Leandro\obj\Debug\Servico_Email_Leandro.pdb

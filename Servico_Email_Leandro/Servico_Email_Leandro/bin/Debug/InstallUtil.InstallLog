@@ -1,0 +1,34 @@
+﻿
+Executando uma instalação transacionada.
+
+Começando a fase de instalação da instalação.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\Leandro Reis\Documents\Projetos GIT\Primeiro_Servico\Servico_Email_Leandro\Servico_Email_Leandro\bin\Debug\Servico_Email_Leandro.exe.
+Arquivo está localizado em C:\Users\Leandro Reis\Documents\Projetos GIT\Primeiro_Servico\Servico_Email_Leandro\Servico_Email_Leandro\bin\Debug\Servico_Email_Leandro.InstallLog.
+
+Ocorreu uma exceção durante a fase de instalação.
+System.ComponentModel.Win32Exception: O serviço especificado já existe
+
+Fase de reversão da instalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\Leandro Reis\Documents\Projetos GIT\Primeiro_Servico\Servico_Email_Leandro\Servico_Email_Leandro\bin\Debug\Servico_Email_Leandro.exe.
+Arquivo está localizado em C:\Users\Leandro Reis\Documents\Projetos GIT\Primeiro_Servico\Servico_Email_Leandro\Servico_Email_Leandro\bin\Debug\Servico_Email_Leandro.InstallLog.
+
+Fase de reversão foi concluída com êxito.
+
+Instalação transacionada concluída.
+
+Executando uma instalação transacionada.
+
+Começando a fase de instalação da instalação.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\Leandro Reis\Documents\Projetos GIT\Primeiro_Servico\Servico_Email_Leandro\Servico_Email_Leandro\bin\Debug\Servico_Email_Leandro.exe.
+Arquivo está localizado em C:\Users\Leandro Reis\Documents\Projetos GIT\Primeiro_Servico\Servico_Email_Leandro\Servico_Email_Leandro\bin\Debug\Servico_Email_Leandro.InstallLog.
+
+Ocorreu uma exceção durante a fase de instalação.
+System.ComponentModel.Win32Exception: O serviço especificado já existe
+
+Fase de reversão da instalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\Leandro Reis\Documents\Projetos GIT\Primeiro_Servico\Servico_Email_Leandro\Servico_Email_Leandro\bin\Debug\Servico_Email_Leandro.exe.
+Arquivo está localizado em C:\Users\Leandro Reis\Documents\Projetos GIT\Primeiro_Servico\Servico_Email_Leandro\Servico_Email_Leandro\bin\Debug\Servico_Email_Leandro.InstallLog.
+
+Fase de reversão foi concluída com êxito.
+
+Instalação transacionada concluída.
